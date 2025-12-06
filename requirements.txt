@@ -1,0 +1,5 @@
+streamlit
+dotenv
+langchain
+langchain-google-genai
+pdf2image
