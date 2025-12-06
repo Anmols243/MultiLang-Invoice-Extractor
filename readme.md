@@ -54,7 +54,7 @@ File Processing	pdf2image, PIL
 Config	python-dotenv
 📦 Installation
 1️⃣ Clone the repository
-git clone https://github.com/Anmols243/Gemini
+git clone https://github.com/Anmols243/MultiLang-Invoice-Extractor
 cd MultiLang_Invoice_Extractor
 
 2️⃣ Create a virtual environment
